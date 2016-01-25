@@ -1,0 +1,3 @@
+Stolen Sleigh TODO list
+
+  sequence through trips in size or shuffled order . . .
